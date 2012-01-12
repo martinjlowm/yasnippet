@@ -1,0 +1,7 @@
+# contributor: Alberto Zaccagni <alberto.zaccagni@lazywithclass.com>
+# name: it should ...
+# key: it
+# --
+it("should ", function() {
+
+});
