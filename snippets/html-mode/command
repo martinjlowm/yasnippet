@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <command value="..." ... />
+# key: command
+# --
+<command value="${1:command}"${2: label="${3:command}"}${4: title="${5:title}"}${6: icon="${7:img.jpg}"}${8: disabled}${9: checked}${10: radiogroup="${11:isradio}"} />$0

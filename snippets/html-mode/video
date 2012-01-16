@@ -1,0 +1,7 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <video src="..." ...></video>
+# key: video
+# --
+<video src="${1:video.vid}"${2: preload="${3:auto}"}${4: autoplay}${5:
+ mediagroup="${6:movie}"}${7: loop}${8: muted}${9: controls}${10:
+ width="${11:width}"}${12: height="${13:height}"}></video>$0

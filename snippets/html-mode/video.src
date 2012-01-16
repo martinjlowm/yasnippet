@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <video src="..."></video>
+# key: video
+# --
+<video src="${1:video.vid}"></video>$0

@@ -1,0 +1,6 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <audio src="..." ...></audio>
+# key: audio
+# --
+<audio src="${1:audio.mp3}"${2: preload="${3:auto}"}${4: autoplay}${5:
+ mediagroup="${6:movie}"}${7: loop}${8: muted}${9: controls}></audio>$0

@@ -1,0 +1,7 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <footer>...</footer>
+# key: footer
+# --
+<footer>
+  $0
+</footer>

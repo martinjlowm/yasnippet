@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <output ...>...</output>
+# key: output
+# --
+<output${1: name="${2:cookie}"}${3: form="${4:monster}"}>$0</output>

@@ -1,0 +1,6 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <track kind="..." src="..." srclang="..." ... />
+# key: track
+# --
+<track kind="${1:subtitles}" src="${2:video.vid}" srclang="${3:en}"${4:
+ label="${5:label}"}${6: default} />$0

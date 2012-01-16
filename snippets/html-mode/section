@@ -1,0 +1,7 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <section>...</section>
+# key: section
+# --
+<section>
+  $0
+</section>

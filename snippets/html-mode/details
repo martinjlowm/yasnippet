@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <details ...>...</details>
+# key: details
+# --
+<details${1: open}>$0</details>

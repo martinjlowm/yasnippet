@@ -1,0 +1,6 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <embed src="..." ... />
+# key: embed
+# --
+<embed src="${1:flash.swf}"${2:
+ type="${3:type}"}${4: width="${5:width}"}${6: height="${7:height}"} />$0

@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <progress ... >...</progress>
+# key: progress
+# --
+<progress ${1:value="${2:0}"}${3: max="${4:100}"}${5: form="${6:owner}"}>$0</progress>

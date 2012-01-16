@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <audio src="..."></audio>
+# key: audio
+# --
+<audio src="${1:audio.mp3}"></audio>$0

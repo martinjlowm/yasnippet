@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <canvas width="..." height="..."></canvas>
+# key: canvas
+# --
+<canvas width="${1:250}" height="${2:250}"></canvas>$0

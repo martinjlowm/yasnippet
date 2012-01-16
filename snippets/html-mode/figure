@@ -1,0 +1,7 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <figure>...</figure>
+# key: figure
+# --
+<figure>
+  $0
+</figure>

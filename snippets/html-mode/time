@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <time ... >...</time>
+# key: time
+# --
+<time ${1:datetime="${2:0000-00-00}"}${3: pubdate}>$0</time>

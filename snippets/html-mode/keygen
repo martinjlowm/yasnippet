@@ -1,0 +1,5 @@
+# contributor: Martin Madsen <martin_jlowm@hotmail.com>
+# name: <keygen ... />
+# key: keygen
+# --
+<keygen${1: autofocus}${2: keytype="${3:rsa}"}${4: name="${5:keygen}"} />$0
