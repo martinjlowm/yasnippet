@@ -1,0 +1,7 @@
+# contributor: Alberto Zaccagni <alberto.zaccagni@lazywithclass.com>
+# name: describe ...
+# key: describe
+# --
+describe("", function() {
+
+});
